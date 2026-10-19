@@ -2,9 +2,7 @@
 
 ## Çalışma Alanları
 * **Yapay Zeka:** Vision-Language Models (VLMs), Retrieval-Augmented Generation (RAG), Multi-Agent Mimarileri.
-* **Yazılım Geliştirme:** C#, .NET, Python, PyTorch, LangChain, LangGraph.
-
-## Teknoloji Yığını
+* **Yazılım Geliştirme:** C#, .NET, Python, Spring, SQL
 * **Diller:** C#, Python, Java, SQL
 
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denizdemirkan&theme=github_dark)
