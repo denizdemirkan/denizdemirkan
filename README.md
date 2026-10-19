@@ -7,8 +7,8 @@
 ## Teknoloji Yığını
 * **Diller:** C#, Python, Java, SQL
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denizdemirkan&theme=github_dark)
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denizdemirkan&theme=github_dark)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denizdemirkan&theme=github_dark)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-demirkan/)
